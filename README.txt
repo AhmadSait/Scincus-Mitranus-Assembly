@@ -1,5 +1,3 @@
-Ahmad Sait - 196834 - Assignment 2 requirements for reproducibility
-
 The notebook titled Full_Code.ipynb has all the code, the conda installations needed, and the commands to get the evaluations done. The markdown capability of a notebook made it very easy to document everything.
 
 Please just run the cells of the notebook while making sure Synthetic Dataset 1 is in a directory called "synthetic", and Synthetic Dataset 2 is in a directory called "mers". Also, please create a third directory called "outputs" where all output files or directories are stored there.
